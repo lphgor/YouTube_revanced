@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "com.rvx.android.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "com.rvx.android.apps.youtube.music"
+      }
+    ]
+  }
+]
